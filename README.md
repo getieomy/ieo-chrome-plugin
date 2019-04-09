@@ -15,7 +15,7 @@ chrome官网：https://www.google.cn/intl/zh-CN/chrome/(已有chrome则无需重
 ![选择chrome的扩展程序](http://partner.biup.com/media/uploads/2019/04/09/1.png)
 
 ## 打开开发者模式
-![打开开发者模式](http://partner.biup.com/media/uploads/2019/04/09/1.png)
+![打开开发者模式](http://partner.biup.com/media/uploads/2019/04/01/2.png)
 
 ## 点击按钮，选择当前word所在目录，浏览器会自动跳转到抢购页面
 ![](http://partner.biup.com/media/uploads/2019/04/01/3.png)
