@@ -17,17 +17,14 @@ chrome官网：https://www.google.cn/intl/zh-CN/chrome/(已有chrome则无需重
 ## 打开开发者模式
 ![打开开发者模式](http://partner.biup.com/media/uploads/2019/04/09/1.png)
 
-点击按钮，选择当前word所在目录，浏览器会自动跳转到抢购页面
-
-
-
-
-成功安装后会出现小鲸鱼图标
-
+## 点击按钮，选择当前word所在目录，浏览器会自动跳转到抢购页面
+![](http://partner.biup.com/media/uploads/2019/04/01/3.png)
+## 成功安装后会出现小鲸鱼图标
+![](http://partner.biup.com/media/uploads/2019/04/01/4.png)
 
 点击小鲸鱼图标，会直接链接到BitForex，然后根据插件提示操作
 
-提示：
+# 提示：
 
 1、推荐加入微信群，第一时间下载最新插件，最新破解截图将陆续放出
 
