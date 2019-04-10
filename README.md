@@ -8,8 +8,9 @@ BiUP将持续以技术优势，帮更多用户抓住IEO红利。同时BiUP近期
 ## BiUP IEO（BitForex  UND币）抢购插件下载地址：
 ### BitForexIEO 插件地址
 https://biupdown.oss-cn-hangzhou.aliyuncs.com/und-chrom-plugin.zip
+
 ### bit-z 插件地址
-https://biupdown.oss-cn-hangzhou.aliyuncs.com/defi-chrom-plugin.zip
+https://biupdown.oss-cn-hangzhou.aliyuncs.com/defi-chrom-plugin-beniwide.zip
 
 # 抢购插件使用说明
 ## 安装最新版本chrome浏览器
