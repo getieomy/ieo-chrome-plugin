@@ -1,10 +1,10 @@
 # firefox 安装步骤
 ## 下载最新版 firefox https://www.firefox.com.cn/
 ## 下载最新 火币韩国插件 地址进群后获得 
-## 打开 Firefox
----  地址栏输入 "about:debugging" 
----  点击 "启用附加组件调试"
----  打开附加组件的目录并选择该附加组件的任意一个文件（自动加载）.
+## 打开 Firefox 后按照下面方式操作方式
+1. 地址栏输入 "about:debugging" 
+2. 点击 "启用附加组件调试"
+3. 打开附加组件的目录并选择该附加组件的任意一个文件（自动加载）.
 
 
 # BitForexIEO bit-z 抢购插件全球首发
