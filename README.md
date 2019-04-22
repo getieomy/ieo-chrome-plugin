@@ -1,3 +1,9 @@
+# firefox 安装步骤
+## 下载最新版 firefox https://www.firefox.com.cn/
+## 下载最新 火币韩国插件 地址进群后获得 
+## --------------
+
+
 # BitForexIEO bit-z 抢购插件全球首发
 BiUP将持续以技术优势，帮更多用户抓住IEO红利。同时BiUP近期抢购支持计划已发布，请点击首页banner查看最新动态。
 
