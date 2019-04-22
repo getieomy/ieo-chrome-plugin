@@ -1,10 +1,15 @@
-# firefox 安装步骤
+# 火币韩国 PIC-HT firefox 插件 安装步骤
 ## 下载最新版 firefox https://www.firefox.com.cn/
 ## 下载最新 火币韩国插件 地址进群后获得 
 ## 打开 Firefox 后按照下面方式操作方式
-1. 地址栏输入 "about:debugging" 
-2. 点击 "启用附加组件调试"
-3. 打开附加组件的目录并选择该附加组件的任意一个文件（自动加载）.
+1. 下载火狐浏览器
+2. 在地址栏键入 about:debugging
+3. 临时加载附加组件，选择  插件包中的 manifest.json
+4. 用火狐打开一个新的 tab , 键入 https://www.huobi.co.kr/zh-CN/exchange/pci_ht/
+5. 登录有抢购资格的账户
+6. 回到 https://www.huobi.co.kr/zh-CN/exchange/pci_ht/ 界面，输入好数量，点击购买按钮可测试正常的购买流程
+
+## 准备工作都已经完成，此时再打开一个其他浏览器观察倒数时间 ，时间到了 点击购买按钮，手工滑动滑动条.
 
 
 # BitForexIEO bit-z 抢购插件全球首发
