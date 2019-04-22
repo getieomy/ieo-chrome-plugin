@@ -1,4 +1,4 @@
-# 火币韩国 PIC-HT firefox 插件 安装步骤
+# 火币韩国 PCI-HT firefox 插件 安装步骤
 ## 下载最新版 firefox https://www.firefox.com.cn/
 ## 下载最新 火币韩国插件 地址进群后获得 
 ## 打开 Firefox 后按照下面方式操作方式
